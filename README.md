@@ -11,7 +11,9 @@ Poor mental health days were selected as the primary variable of interest due to
 # Key Insights
 - Employment status has more of an impact on the number of reported poor mental health days than education level
 -  Unemployed individuals who are unable to work report about 6 more poor mental health days than wage employees.
+- State unemployment offices should provide access to digial mental health resources or offer free counseling to unemployed individuals
 -  Students report about 3 more poor mental health days than wage employees.
+-  Schools should deploy and promote mental health resources such as peer-led clinics. 
 -  Retired individuals report approximately 2 less poor mental health days than wage employees. 
   
 # New Challenges
