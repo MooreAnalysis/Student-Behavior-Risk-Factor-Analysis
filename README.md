@@ -3,17 +3,17 @@
 ![R](https://img.shields.io/badge/R-Data%20Analysis-blue)
 ![Healthcare Analytics](https://img.shields.io/badge/Domain-Healthcare-red)
 
-Poor mental health days were selected as the primary variable of interest due to the growing public health focus on mental health and its relationship to overall quality of life, productivity, and long-term health outcomes. By analyzing behavioral and demographic factors associated with poor mental health days, this project aims to identify trends that may contribute to improved prevention and intervention efforts. My personal commitment to mental health awareness also influenced the decision to explore this topic using the CDC BRFSS 2021 dataset. 
+Poor mental health days were selected as the primary variable of interest due to the growing public health focus on mental health and its relationship to overall quality of life, productivity, and long-term health outcomes. By analyzing behavioral and demographic factors associated with poor mental health days, this project aims to identify trends that may contribute to improved prevention and intervention efforts. My personal commitment to mental health awareness, particulary high risk populations such as college students, also influenced the decision to explore this topic using the CDC BRFSS 2021 dataset. 
 
 # Dataset
 - CDC 2021 BRFSS public health survey dataset containing large-scale demographic, behavioral, and health-related data from U.S. adults for statistical and exploratory analysis. 
 - The ages of the participants in the study are 18 years old and older. 
 # Key Insights
-- Employment status has more of an impact on the number of reported poor mental health days than education level
--  Unemployed individuals who are unable to work report about 6 more poor mental health days than wage employees.
-- State unemployment offices should provide access to digial mental health resources or offer free counseling to unemployed individuals
 -  Students report about 3 more poor mental health days than wage employees.
 -  Schools should deploy and promote mental health resources such as peer-led clinics. 
+-  Employment status has more of an impact on the number of reported poor mental health days than education level
+-  Unemployed individuals who are unable to work report about 6 more poor mental health days than wage employees.
+- State unemployment offices should provide access to digial mental health resources or offer free counseling to unemployed individuals
 -  Retired individuals report approximately 2 less poor mental health days than wage employees. 
   
 # New Challenges
