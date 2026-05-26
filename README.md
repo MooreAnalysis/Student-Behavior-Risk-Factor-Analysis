@@ -1,4 +1,4 @@
-# Behavior-Risk-Factor-Analysis
+# Student-Behavior-Risk-Factor-Analysis
 
 ![R](https://img.shields.io/badge/R-Data%20Analysis-blue)
 ![Healthcare Analytics](https://img.shields.io/badge/Domain-Healthcare-red)
